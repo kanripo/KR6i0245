@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 小道地經
+#+DATE: 2015-08-30 20:13:53.697802
+#+PROPERTY: JUAN 0
