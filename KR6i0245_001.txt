@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:54.609896
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:02
 #+TITLE: 小道地經
 #+PROPERTY: CBETA_ID T15n0608
 #+PROPERTY: ID KR6i0245
